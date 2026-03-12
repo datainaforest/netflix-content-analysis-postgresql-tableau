@@ -101,7 +101,6 @@ This project demonstrates an end-to-end analytics workflow:
 ---
 
 ## 🖥️ Dashboard Preview
-_Add your dashboard screenshot below:_
 
 ![Dashboard](dashboard.png)
 ---
