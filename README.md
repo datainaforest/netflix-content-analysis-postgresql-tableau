@@ -128,7 +128,5 @@ netflix-content-analysis-postgresql-tableau
 │   └── release_gap_pct.csv
 │
 ├── dashboard
-│   └── netflix_content_analysis_dashboard.png
-│
-└── assets
-    └── dashboard_preview.png
+    └── netflix_content_analysis_dashboard.png
+
